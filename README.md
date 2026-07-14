@@ -60,6 +60,17 @@ The project evaluates the Q-Learning model using:
 - Baseline Performance Comparison
 - Performance Metrics
 - Ablation Study
+## Performance Graphs
+
+### Reward vs Episodes
+
+![Reward vs Episodes](images/reward_vs_episodes.png)
+
+---
+
+### Moving Average Reward
+
+![Moving Average Reward](images/moving_average_reward.png)
 
 ---
 
